@@ -63,7 +63,10 @@ create table tb_sqlserver_conn
 )
     comment 'sqlserver数据库' collate = utf8mb4_unicode_ci;
 
-
-
-
 ```
+#### 总体架构图为
+<img width="1738" height="601" alt="智能数据库查询与可视化系统总体架构" src="https://github.com/user-attachments/assets/e5e09fe8-fae1-4d6b-bda5-1b9e97029fff" />
+#### 执行流程示意
+<img width="1021" height="744" alt="自然语言查询到图表生成的核心流程" src="https://github.com/user-attachments/assets/a627889c-2391-4232-84a8-b2b98a987a16" />
+<img width="279" height="1481" alt="执行流程图" src="https://github.com/user-attachments/assets/075b34ad-7988-42e8-85b8-00d9a1ecf0f6" />
+
